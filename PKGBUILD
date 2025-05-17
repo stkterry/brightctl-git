@@ -2,7 +2,7 @@
 
 _pkgname=brightctl
 pkgname=$_pkgname-git
-pkgver=0.1.0
+pkgver=0.9.0
 pkgrel=1
 pkgdesc="Device brightness control for systemd"
 arch=('x86_64')
